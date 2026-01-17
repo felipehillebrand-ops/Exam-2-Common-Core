@@ -12,7 +12,7 @@
 
 void sort_int_tab(int *tab, unsigned int size)
 {
-	int	mp;
+	int	tmp;
 	unsigned int	i;
 	unsigned int	j;
 
